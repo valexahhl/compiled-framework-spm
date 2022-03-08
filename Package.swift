@@ -22,7 +22,7 @@ let package = Package(
 		.binaryTarget(
 		   name: "heresdk",
 		   url: "https://github.com/valexahhl/compiled-framework-spm/releases/download/0.0.1/heresdk-navigate-ios-4.10.4.0.7956.zip",
-		   checksum: "b960f3e5240de3e21b2ebdcbb9544a39376e7e7bf00fab0c3d22c5b5d9fca105"
+		   checksum: "059b81db97562c6c2f12852e439fbca13f9bd174c4a9712ab3e48f6cad7be142"
 		)
     ]
 )
