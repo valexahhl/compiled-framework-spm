@@ -1,0 +1,2 @@
+
+HERE Navigate iOS SDK 4.10.4.0.7956
