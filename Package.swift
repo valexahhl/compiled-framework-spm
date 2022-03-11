@@ -21,7 +21,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
 		.binaryTarget(
 		   name: "heresdk",
-		   url: "https://cedriver.page.link/?efr=1&link=https://github.com/valexahhl/compiled-framework-spm/releases/download/0.0.2/heresdk-navigate-ios-4.10.4.0.7956.zip",
+		   url: "https://github.com/valexahhl/compiled-framework-spm/releases/download/0.1/heresdk-navigate-ios-4.10.4.0.7956.zip",
 		   checksum: "059b81db97562c6c2f12852e439fbca13f9bd174c4a9712ab3e48f6cad7be142"
 		)
     ]
